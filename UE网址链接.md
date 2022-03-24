@@ -10,8 +10,7 @@ https://docs.unrealengine.com/4.27/zh-CN/
 《InsideUE4》目录  
 大钊 Epic Games 社区经理
 ==========================================
-https://zhuanlan.zhihu.com/p/22813908 
-https://zhuanlan.zhihu.com/p/22833151
+https://zhuanlan.zhihu.com/p/22813908  要多读读 读遍数多了好理解
 ------------------------------------------
 ------------------------------------------
 
