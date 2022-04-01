@@ -9,6 +9,8 @@ require "UnLua"
 
 local Screen = require "Tutorials.Screen"
 
+
+-- 测试
 local M = Class()
 
 -- 所有绑定到Lua的对象初始化时都会调用Initialize的实例方法
